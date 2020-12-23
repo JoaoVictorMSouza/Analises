@@ -1,0 +1,6 @@
+Modulo é o menor grupo de informações que podem trabalhar de forma independente.
+
+Um modulo tem que se autogerenciar. Ele tem que conseguir trabalhar de modo independente.
+Existe submodulos que podem conversar.
+
+Um modulo pode conversar com outro mas de forma geral ele deve ser independente. ELE TEM QUE TRABALHAR DE FORMA INDEPENDENTE.
