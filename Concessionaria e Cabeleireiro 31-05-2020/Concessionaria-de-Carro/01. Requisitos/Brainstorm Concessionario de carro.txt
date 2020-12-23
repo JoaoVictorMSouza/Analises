@@ -1,0 +1,15 @@
+Tela de mostragem dos carros
+
+Simulado de parcelas.
+
+Login
+
+Gerenciamento
+
+Tabela de carros
+
+Tabela de vendedores
+
+Serviços, como troca de oleo.
+
+Agendamento de serviços.
